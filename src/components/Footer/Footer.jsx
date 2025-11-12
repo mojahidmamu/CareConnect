@@ -1,4 +1,4 @@
-import logo from "../../assets/image/logo.png";
+import React from "react";
 
 const Footer = () => {
   return (
