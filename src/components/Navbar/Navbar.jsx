@@ -1,10 +1,13 @@
-
-import "./Navbar.css"; 
+import "./Navbar.css";
 
 const Navbar = () => {
   const links = (
     <>
       <li>Home</li>
+      <li>Career Test</li>
+      <li>Roadmap</li>
+      <li>Roadmap</li>
+      <li>Jobs</li>
     </>
   );
   return (
